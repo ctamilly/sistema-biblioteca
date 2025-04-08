@@ -1,7 +1,50 @@
 Título,Autor,Ano,ISBN,Categoria
-Introdução à Programação com Python,Nilo Ney Coutinho Menezes,2018,9788536503996,Computação
-A Origem das Espécies,Charles Darwin,1859,9788571104221,Biologia
-O Capital,Karl Marx,1867,9788574806924,Economia
-História da Matemática,Carl B. Boyer,2012,9788521617325,Matemática
-História do Brasil,Lilia Schwarcz,2015,9788535930311,História
-Algoritmos: Teoria e Prática,"Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",2009,9788576056022,Computação
+Aprendendo Python,Mark Lutz,2013,9781449355739,Programação
+Python Fluente,Luciano Ramalho,2015,9781491946008,Programação
+O Senhor dos Anéis,J.R.R. Tolkien,1954,9780261102385,Ficção
+Clean Code,Robert C. Martin,2008,9780132350884,Engenharia de Software
+Design Patterns,Erich Gamma,1994,9780201633610,Engenharia de Software
+Dom Casmurro,Machado de Assis,1899,9788535910661,Romance
+Harry Potter e a Pedra Filosofal,J.K. Rowling,1997,9788532511014,Fantasia
+Cem Anos de Solidão,Gabriel García Márquez,1967,9780060883287,Romance
+A Revolução dos Bichos,George Orwell,1945,9780451526342,Ficção
+1984,George Orwell,1949,9780451524935,Ficção
+A Arte da Guerra,Sun Tzu,500,9780851773540,Estratégia
+A Máquina do Tempo,H.G. Wells,1895,9780141439976,Ficção Científica
+O Pequeno Príncipe,Antoine de Saint-Exupéry,1943,9780156012195,Fábula
+Sapiens,Yuval Noah Harari,2011,9780062316097,História
+Homo Deus,Yuval Noah Harari,2015,9780062464316,História
+Mindset,Carol S. Dweck,2006,9780345472328,Psicologia
+O Poder do Hábito,Charles Duhigg,2012,9780812981605,Psicologia
+A Cabana,William P. Young,2007,9781591455283,Religião
+Quem Pensa Enriquece,Napoleon Hill,1937,9780449214923,Autoajuda
+Pai Rico Pai Pobre,Robert Kiyosaki,1997,9780449009970,Finanças
+A Startup Enxuta,Eric Ries,2011,9780307887894,Empreendedorismo
+Roube Como um Artista,Austin Kleon,2012,9780761169253,Criatividade
+Trabalhe 4 Horas por Semana,Tim Ferriss,2007,9780307465351,Produtividade
+Steve Jobs,Walter Isaacson,2011,9781451648539,Biografia
+A Menina que Roubava Livros,Markus Zusak,2005,9780385754729,Drama
+Percy Jackson e o Ladrão de Raios,Rick Riordan,2005,9780786838653,Ficção
+O Hobbit,J.R.R. Tolkien,1937,9780547928227,Ficção
+Fahrenheit 451,Ray Bradbury,1953,9781451673319,Ficção Científica
+O Código Da Vinci,Dan Brown,2003,9780307474278,Suspense
+Inferno,Dan Brown,2013,9780804172264,Suspense
+Origem,Dan Brown,2017,9780525563709,Suspense
+A Moreninha,Joaquim Manuel de Macedo,1844,9788520000000,Romance
+Capitães da Areia,Jorge Amado,1937,9788572328717,Romance
+Iracema,José de Alencar,1865,9788580000000,Romance
+O Cortiço,Aluísio Azevedo,1890,9788500000000,Romance
+A Hora da Estrela,Clarice Lispector,1977,9788530000000,Drama
+Macunaíma,Mário de Andrade,1928,9788560000000,Modernismo
+Os Sertões,Euclides da Cunha,1902,9788570000000,História
+Grande Sertão: Veredas,Guimarães Rosa,1956,9788535920000,Romance
+Ensaio Sobre a Cegueira,José Saramago,1995,9788535914849,Ficção
+Memórias Póstumas de Brás Cubas,Machado de Assis,1881,9788572320000,Romance
+Vidas Secas,Graciliano Ramos,1938,9788500000123,Romance
+A Metamorfose,Franz Kafka,1915,9788595080000,Ficção
+O Processo,Franz Kafka,1925,9788590000000,Ficção
+Os Miseráveis,Victor Hugo,1862,9780140444308,Clássico
+Crime e Castigo,Fiódor Dostoiévski,1866,9788572320001,Clássico
+O Idiota,Fiódor Dostoiévski,1869,9788570000002,Clássico
+Guerra e Paz,Leon Tolstói,1869,9788530000034,Clássico
+Anna Kariênina,Leon Tolstói,1877,9788530000056,Clássico
