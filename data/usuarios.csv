@@ -1,5 +1,31 @@
 ID,Nome,Email,Tipo,Livros_Emprestados
-1a2b3c,João da Silva,joao@gmail.com,Aluno,
-2b3c4d,Ana Paula,ana.paula@escola.edu.br,Professora,
-3c4d5e,Carlos Henrique,carlosh@gmail.com,Visitante,
-42bf2447-574f-4bc4-b0b4-bbd347c40cbe,Cristhiane Tamilly,tamilly.carvalho@gmail.com,Aluno,
+6bafba,Ana Silva,ana@email.com,Aluno,"A Revolução dos Bichos, Homo Deus, Python Fluente"
+1fccc6,Carlos Souza,carlos@email.com,Professor,"A Máquina do Tempo, Cem Anos de Solidão, Mindset"
+461d93,Beatriz Lima,beatriz@email.com,Aluno,"Harry Potter e a Pedra Filosofal, O Senhor dos Anéis, Sapiens, 1984"
+d23643,Diego Torres,diego@email.com,Visitante,"A Arte da Guerra, Dom Casmurro, O Pequeno Príncipe"
+6759ec,Eduarda Reis,eduarda@email.com,Aluno,O Poder do Hábito
+60746f,Fernando Costa,fernando@email.com,Professor,
+89fb89,Gabriela Martins,gabi@email.com,Visitante,Roube Como um Artista
+044b19,Hugo Santos,hugo@email.com,Professor,
+a74c65,Isabela Dias,isa@email.com,Aluno,
+e838f5,João Pedro,jp@email.com,Visitante,
+17e302,Karen Almeida,karen@email.com,Professor,
+3138cc,Lucas Ramos,lucas@email.com,Professor,
+500c16,Mariana Rocha,mariana@email.com,Aluno,
+dd22c4,Nicolas Castro,nicolas@email.com,Visitante,
+105a44,Olivia Freitas,olivia@email.com,Professor,
+2f89d7,Pedro Henrique,pedro@email.com,Aluno,
+e242e7,Quésia Moura,quesia@email.com,Aluno,
+e6219b,Rafael Cardoso,rafael@email.com,Professor,Aprendendo Python
+3c6c94,Sabrina Gomes,sabrina@email.com,Aluno,
+7e9387,Thiago Mello,thiago@email.com,Visitante,
+1ab6af,Úrsula Braga,ursula@email.com,Professor,
+0f5d55,Vinicius Luz,vinicius@email.com,Aluno,
+653a43,Wesley Lopes,wesley@email.com,Aluno,
+191582,Xuxa Meneghel,xuxa@email.com,Professor,A Startup Enxuta
+50757b,Yasmin Nobre,yasmin@email.com,Aluno,
+dee16c,Zeca Pagodinho,zeca@email.com,Visitante,
+c3ae96,Francisco Silva,francisco@email.com,Professor,
+41405f,Angela Costa,angela@email.com,Aluno,
+cf5801,Tamilly Menezes,tamilly@email.com,Aluno,
+5eb123,João Otávio Nunes,otavion@email.com,Visitante,
