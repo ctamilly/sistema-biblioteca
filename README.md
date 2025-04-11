@@ -32,7 +32,7 @@ cd sistema-biblioteca
 2. Instale as dependências:
 
 ```bash
-pip install streamlit pandas
+pip install streamlit pandas plotly
 ```
 
 3. Execute o sistema:
