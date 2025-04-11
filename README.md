@@ -18,6 +18,7 @@ Um sistema de gerenciamento de biblioteca desenvolvido com [Streamlit](https://s
 - Python
 - Streamlit
 - Pandas
+- Plotly
 - CSV
 
 ## ▶️ Como Executar
